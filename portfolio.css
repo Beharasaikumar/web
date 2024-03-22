@@ -1,0 +1,49 @@
+.s1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.s1:hover{
+    color: aqua;
+    
+}
+.a2{
+    text-align:right ;
+}
+h1{
+    color:orange;
+}
+body{
+    background-color:grey;
+}
+.k1{
+    display:flex;
+    grid-area:k1;
+    justify-content:space-between;
+}
+.p1{
+    background:transparent;
+backdrop-filter: blur (20px);
+box-shadow: 0 0 10px black;
+    margin:6%;
+    padding:6%;
+    border: 2px solid;
+    border-radius: 10px;
+    color: white;
+    background-color: purple;
+    border: none;
+}
+.p1 input type{
+    border-radius: 2px;
+}
+.r1{
+    width:180px;
+}
+.g1{
+    color:green;
+}
+body{
+    
+    background-image: url(jyo.jpg);
+    background-size:cover;
+    background-position:center;
+}
